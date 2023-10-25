@@ -22,6 +22,7 @@ class rahul2{
         return ipAddress;
     }
 }
+
 class IterativeDNSQuery {
     private List<rahul2> rahul;
         public IterativeDNSQuery(){
