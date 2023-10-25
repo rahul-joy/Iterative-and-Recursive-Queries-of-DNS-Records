@@ -8,7 +8,6 @@ package rahul;
 
 import java.util.ArrayList;
 import java.util.List;
-
 class rahul2{
     private String domain;
     private String ipAddress;
